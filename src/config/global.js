@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Social media y redes sociales',
+    descripcionCurso:
+      'Las PYMES históricamente no han contado con rubros para pagar publicidad debido a los costos. Los social media son plataformas que contienen canales de comunicación y, de alguna manera, les han dado la mano a estas empresas, pues, a través de las redes sociales, se pueden promocionar productos y servicios a menor costo y pueden llegar a más público objetivo.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,27 +32,73 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'PYMES en Colombia',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: '<em>Social media</em>',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Comunicación',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Redes sociales',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Ventajas y desventajas',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Audiencias',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Publicación ',
+            hash: 't_4_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Plan de comunicación digital',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Elaboración de un plan de comunicación',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.1',
+            titulo: 'Piezas de <em>marketing</em> digital',
+            hash: 't_5_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Posicionamiento',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: '<em>Big Data</em>',
         desarrolloContenidos: true,
       },
     ],
@@ -82,6 +129,11 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
+      },
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CFA_01_51220021.zip',
       },
       {
         icono: 'fas fa-download',

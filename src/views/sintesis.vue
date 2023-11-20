@@ -3,8 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p A continuación, se describe el tema principal del componente formativo #[em Social media] y redes sociales, son plataformas digitales donde las personas se conectan, comparten contenido y se comunican en línea. Son fundamentales en la era de la información y la interacción, transformando la comunicación personal y empresarial.
+    p.mb-5 Las redes sociales permiten la difusión de noticias, marketing digital, conexiones personales y profesionales, y el intercambio de ideas. Plataformas populares como Facebook, X, Instagram y LinkedIn desempeñan un papel central en la construcción de comunidades en línea y la promoción de marcas. Las estrategias efectivas en las redes sociales son esenciales para el éxito de las empresas y la influencia en la opinión pública.
 
     .row.justify-content-center
       .col-lg-10.mb-5

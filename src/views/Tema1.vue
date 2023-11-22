@@ -95,7 +95,7 @@
 
     .row.align-items-center.mb-4(data-aos="fade-down-right")
       .d-flex.titulo-h3
-        img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
+        img(src='@/assets/curso/temas/icono.svg', style="width: 25px", alt='')
         h3.mb-0.ms-3 Financiamiento de las MiPymes
 
     p.mb-5(data-aos="fade-down") En Colombia, el Fondo Nacional de Garantías juega un papel importante, ya que respalda los créditos de las MiPymes ante la banca comercial.

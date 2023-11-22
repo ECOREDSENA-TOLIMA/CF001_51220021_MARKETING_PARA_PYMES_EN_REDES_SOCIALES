@@ -119,15 +119,27 @@
         img(src='@/assets/curso/temas/icono.svg', style="width: 25px", alt='')
         h3.mb-0.ms-3 Calendario de acciones
 
-    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down-right")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right")
       .col-lg-6.col-12
         p Así como se plantearon los objetivos o metas, se deben registrar las fechas de las publicaciones, ejecución de campañas, entre otras razones. 
         p De esta manera, será más fácil la ejecución del plan y el cumplimiento de las acciones planteadas. Cada acción debe tener una duración definida, algunas acciones tendrán una continuidad y otras se repetirán al día o a la semana, otras serán puntuales; es indispensable decidir lo que se va a hacer y cuándo se va a hacer, en muchos casos, también va el responsable.  En la web, existen muy buenas herramientas para hacer calendarios, algunas de estas son: #[em Google Calendar] o #[em Monday], entre otras.
       .col-lg-6.col-10
         img(src='@/assets/curso/temas/tema5/tema5-11.png', alt='')
 
-      //- pendiente enlace
-    
+    .tarjeta.color-primario-c.p-3.mb-5(data-aos="fade-down-right")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/calendario.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1.texto-blanco Calendario de publicaciones
+              p.texto-blanco En el siguiente enlace, se podrá apreciar un ejemplo de un calendario de publicaciones en redes sociales para una empresa:
+            .col-sm-auto
+              a.boton.color-acento-botones(href="https://img.freepik.com/vector-gratis/plantilla-calendario-redes-sociales-creativo-dibujado-mano_23-2149015168.jpg?w=1380&t=st=1700623921" target="_blank")
+                span Enlace web
+                i.fas.fa-code
+                  
     .row.align-items-center.mb-4(data-aos="fade-down-right")
       .d-flex.titulo-h3
         img(src='@/assets/curso/temas/icono.svg', style="width: 25px", alt='')

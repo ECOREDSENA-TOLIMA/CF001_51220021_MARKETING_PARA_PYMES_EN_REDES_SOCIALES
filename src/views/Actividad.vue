@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Plan de comunicación digital
-        p.mb-4 #[b Objetivo] Profundizar conceptos de comunicación digital y todos sus componentes, vistos través del componente, resolviendo el cuestionario de falso y verdadero.
+        p.mb-4 #[b Objetivo:] profundizar conceptos de comunicación digital y todos sus componentes, vistos través del componente, resolviendo el cuestionario de falso y verdadero.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

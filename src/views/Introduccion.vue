@@ -15,7 +15,7 @@
   
     figure(data-aos="zoom-in-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="Social media y redes sociales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/h_IOF_MmwGk" title="Social media y redes sociales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Social media y redes sociales
 
     

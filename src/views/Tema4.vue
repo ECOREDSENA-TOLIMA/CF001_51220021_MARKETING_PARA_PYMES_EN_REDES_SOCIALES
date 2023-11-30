@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-12.col-md-6.col-lg-6
-        p Las redes sociales están conformadas por comunidades que cuentan con diferentes usuarios y organizaciones, estos se pueden comunicar entre ellos en las diferentes plataformas que existen en la Internet, entre ellas: Google, LinkedIn, Facebook, Instagram, Twitter y TikTok, a través de ellas, se conforman grupos que se comparten información, imágenes, videos, etc.
+        p Las redes sociales están conformadas por comunidades que cuentan con diferentes usuarios y organizaciones, estos se pueden comunicar entre ellos en las diferentes plataformas que existen en la Internet, entre ellas: Google, LinkedIn, Facebook, Instagram, X y TikTok, a través de ellas, se conforman grupos que se comparten información, imágenes, videos, etc.
         p El origen de las redes sociales se da a mediados de los años noventa, debido a la aparición de la Web (información que encontramos en una dirección de Internet www), la cual facilita el acceso de muchas personas a Internet.
         p Las redes sociales se han convertido en un aliado muy importante para las PYMES, teniendo en cuenta que la tendencia mundial es el uso constante de estas plataformas. Hay estudios que comprueban que cada usuario de teléfono móvil dedica entre 2 y 3 horas al día para ingresar a las redes sociales; en el caso de los adolescentes y jóvenes, la dedicación es mayor. 
       .col-12.col-md-6.col-lg-6
@@ -36,7 +36,7 @@
             .row 
               .col-12.col-lg-7
                 p Tiene un perfil de usuarios parecido al de Facebook, pese a que cuenta con una participación más adulta que la anterior y es más de tipo informativo.
-                p Su característica principal son sus caracteres limitados y su #[em feed] completo, en el cual cada usuario observa lo que los seguidores comparten y puede intervenir en la conversación contestando a los participantes, conózcalos o no. Además de los muchos usuarios que solo observan contenido en esta, las imágenes son las que tienen más atención, ya sean gifs o hilos de historias.
+                p Su característica principal son sus caracteres limitados y su #[em feed] completo, en el cual cada usuario observa lo que los seguidores comparten y puede intervenir en la conversación contestando a los participantes, conózcalos o no. Además de los muchos usuarios que solo observan contenido en esta, las imágenes son las que tienen más atención, ya sean #[em gifs] o hilos de historias.
               .col-12.col-lg-5
                 img(src='@/assets/curso/temas/tema4/tema4-4.png', alt='')
           .tarjeta.color-acento-botones.p-4(titulo="LinkedIn")
@@ -223,7 +223,7 @@
                 td LinkedIn
                 td 663 millones de usuarios
               tr.text-center
-                td Twitter
+                td X
                 td 353 millones de usuarios
 
     Separador
@@ -289,14 +289,14 @@
             span.icon ✔ 
             | Los aspectos del perfil deben ser muy bien cuidados.
 
-    p.mb-3(data-aos="fade-down") El público objetivo en redes sociales es el grupo de personas, consumidores o clientes potenciales a los que puede llegar la empresa. Por este motivo la estrategia social media y las acciones de #[em marketing] deben estar alineadas con este público, teniendo en cuenta sus características diferenciadoras.
+    p.mb-3(data-aos="fade-down") El público objetivo en redes sociales es el grupo de personas, consumidores o clientes potenciales a los que puede llegar la empresa. Por este motivo la estrategia #[em social media] y las acciones de #[em marketing] deben estar alineadas con este público, teniendo en cuenta sus características diferenciadoras.
     p.mb-3(data-aos="fade-down") Una vez se tienen en cuenta los aspectos importantes del manejo de audiencias, es recomendable, de manera adicional, revisar el fortalecimiento del alcance en las redes sociales, como: 
 
     ol.lista-ol--cuadro.mb-4(data-aos="fade-down-left")
       li 
         .lista-ol--cuadro__vineta
           span 1
-        | Aumentar la presencia en social media y hacer presencia en todos los medios o plataformas (el público puede estar en todos lados).
+        | Aumentar la presencia en #[em social media] y hacer presencia en todos los medios o plataformas (el público puede estar en todos lados).
       li 
         .lista-ol--cuadro__vineta
           span 2
@@ -482,7 +482,7 @@
         img(src='@/assets/curso/temas/tema4/tema4-32.png', alt='')
       .col-12.col-md-7
         p Los #[em reels] son publicaciones cortas y puntuales, son parecidas a las historias, no obstante, tienen unas herramientas diferentes, que ofrecen más posibilidades a la hora de establecer un contenido, y la finalidad de los #[em reels] es garantizar la visualización completa de sus seguidores, de principio a fin. 
-        p Para hacer el reel en Instagram, con fotos y videos, se debe tener en cuenta: 
+        p Para hacer el #[em reel] en Instagram, con fotos y videos, se debe tener en cuenta: 
         ul.lista-ul.ms-3(style="display:inline-grid")
           li.mb-1
             span.icon ✔ 
@@ -492,7 +492,7 @@
             | Darle clic al símbolo “+” para publicar nuevo contenido.
           li.mb-1
             span.icon ✔ 
-            | Seleccionar el modo reel.
+            | Seleccionar el modo #[em reel].
           li.mb-1
             span.icon ✔ 
             | Seleccionar un archivo de la galería o grabar directamente.
@@ -576,7 +576,7 @@
               | Hay que hacer una revisión exhaustiva del material.
             li.mb-0
               span.icon ✔ 
-              | Por último, se debe subir el video a Youtube y hacer la promoción.
+              | Por último, se debe subir el video a YouTube y hacer la promoción.
         .col-10.col-lg-4
           img(src='@/assets/curso/temas/tema4/tema4-35.png', alt='')
 

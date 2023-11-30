@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     p A continuación, se describe el tema principal del componente formativo #[em Social media] y redes sociales, son plataformas digitales donde las personas se conectan, comparten contenido y se comunican en línea. Son fundamentales en la era de la información y la interacción, transformando la comunicación personal y empresarial.
-    p.mb-5 Las redes sociales permiten la difusión de noticias, marketing digital, conexiones personales y profesionales, y el intercambio de ideas. Plataformas populares como Facebook, X, Instagram y LinkedIn desempeñan un papel central en la construcción de comunidades en línea y la promoción de marcas. Las estrategias efectivas en las redes sociales son esenciales para el éxito de las empresas y la influencia en la opinión pública.
+    p.mb-5 Las redes sociales permiten la difusión de noticias, #[em marketing] digital, conexiones personales y profesionales, y el intercambio de ideas. Plataformas populares como Facebook, X, Instagram y LinkedIn desempeñan un papel central en la construcción de comunidades en línea y la promoción de marcas. Las estrategias efectivas en las redes sociales son esenciales para el éxito de las empresas y la influencia en la opinión pública.
 
     .row.justify-content-center
       .col-lg-10.mb-5

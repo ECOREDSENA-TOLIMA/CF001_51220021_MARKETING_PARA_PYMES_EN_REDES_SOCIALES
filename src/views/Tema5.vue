@@ -122,7 +122,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right")
       .col-lg-6.col-12
         p Así como se plantearon los objetivos o metas, se deben registrar las fechas de las publicaciones, ejecución de campañas, entre otras razones. 
-        p De esta manera, será más fácil la ejecución del plan y el cumplimiento de las acciones planteadas. Cada acción debe tener una duración definida, algunas acciones tendrán una continuidad y otras se repetirán al día o a la semana, otras serán puntuales; es indispensable decidir lo que se va a hacer y cuándo se va a hacer, en muchos casos, también va el responsable.  En la web, existen muy buenas herramientas para hacer calendarios, algunas de estas son: #[em Google Calendar] o #[em Monday], entre otras.
+        p De esta manera, será más fácil la ejecución del plan y el cumplimiento de las acciones planteadas. Cada acción debe tener una duración definida, algunas acciones tendrán una continuidad y otras se repetirán al día o a la semana, otras serán puntuales; es indispensable decidir lo que se va a hacer y cuándo se va a hacer, en muchos casos, también va el responsable.  En la web, existen muy buenas herramientas para hacer calendarios, algunas de estas son: Google Calendar o Monday, entre otras.
       .col-lg-6.col-10
         img(src='@/assets/curso/temas/tema5/tema5-11.png', alt='')
 
@@ -238,7 +238,7 @@
         p La tendencia actual es que cada día las empresas decidan incluir en su estrategia de #[em marketing] digital la creación de una #[em App] para ser usada en los dispositivos móviles; este canal de #[em marketing] resulta útil para fidelizar clientes, también aumenta el reconocimiento de la marca, ya que el logo de la empresa aparece en la pantalla del celular del cliente.
         p Las #[em App] de cada empresa deben diseñarse con la posibilidad de que los consumidores o usuarios se vean casi obligados a instalarla en su celular. Esta sería la meta más alta para este tipo de propuesta comercial. Algunos ejemplos son las #[em App] de las entidades bancarias, traductores, buscadores especiales, de tráfico y navegación, etc. 
     
-    p.mb-5(data-aos="fade-down") También es importante recordar que las #[em App] son de diseño y producción propia para cada empresa
+    p.mb-5(data-aos="fade-down") También es importante recordar que las #[em App] son de diseño y producción propia para cada empresa.
 
 </template>
 

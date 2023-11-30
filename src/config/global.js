@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Social media y redes sociales',
+    componenteFormativo: '<em>Social media</em> y redes sociales',
     descripcionCurso:
-      'Las PYMES históricamente no han contado con rubros para pagar publicidad debido a los costos. Los social media son plataformas que contienen canales de comunicación y, de alguna manera, les han dado la mano a estas empresas, pues, a través de las redes sociales, se pueden promocionar productos y servicios a menor costo y pueden llegar a más público objetivo.',
+      'Las PYMES históricamente no han contado con rubros para pagar publicidad debido a los costos. Los <em>social media</em> son plataformas que contienen canales de comunicación y, de alguna manera, les han dado la mano a estas empresas, pues, a través de las redes sociales, se pueden promocionar productos y servicios a menor costo y pueden llegar a más público objetivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -149,7 +149,7 @@ export default {
   },
   complementario: [
     {
-      tema: '2. Social media',
+      tema: '2. <em>Social media</em>',
       referencia:
         'OniAd - Publicidad Programática. (2019). <em>¿Qué es social media marketing? - ¡Haz una estrategia TOP en redes sociales!</em> [Video]. YouTube',
       tipo: 'Video',
@@ -226,7 +226,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Arrontes y Barrera. (2022). Estrategia de marketing digital: cómo encajar las piezas del puzzle. Creatibo. ',
+        'Arrontes y Barrera. (2022). Estrategia de <em>marketing digital</em>: cómo encajar las piezas del <em>puzzle</em>. Creatibo. ',
       link:
         'https://arrontesybarrera.com/creatibo/estrategia-marketing-digital-encajar-piezas-puzzle/',
     },
@@ -248,7 +248,7 @@ export default {
     },
     {
       referencia:
-        'Olivier, E. (2020), ¿Qué es el Social Media Marketing? Genwords ',
+        'Olivier, E. (2020), ¿Qué es el <em>Social Media Marketing</em>? Genwords ',
       link: 'https://www.genwords.com/blog/social-media-marketing',
     },
     {
@@ -258,7 +258,7 @@ export default {
     },
     {
       referencia:
-        'The social media family. (2022). Las redes sociales más utilizadas en el 2022. ',
+        '<em>The social media family</em>. (2022). Las redes sociales más utilizadas en el 2022. ',
       link: 'https://thesocialmediafamily.com/redes-sociales-mas-utilizadas/',
     },
     {
